@@ -1,3 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "on_edge")(type "KiCad")(uri "${KIPRJMOD}/../put_on_edge/on_edge.pretty")(options "")(descr ""))
+  (lib (name "TPS61022")(type "KiCad")(uri "${KIPRJMOD}/TPS61022.pretty")(options "")(descr ""))
 )
